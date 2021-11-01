@@ -1,4 +1,7 @@
-# adminstration-tool
+# Adminstration-tool
+![centos](https://img.shields.io/badge/os-Centos-cyan?style=for-the-badge&logo=centos) ![bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=linux)
+
+
 ## Installation
 Give Permission ```+x ``` to file using ```chmod ```
 
